@@ -1,6 +1,6 @@
 # 🧑‍💻 My DSA Practice
 
-My Data Structures and Algorithms practice and LeetCode solutions.
+My Data Structures and Algorithms practice and LeetCode journey.
 
 ---
 
@@ -14,26 +14,19 @@ My Data Structures and Algorithms practice and LeetCode solutions.
 
 ---
 
-## 📚 Problem Solving
+## 📝 LeetCode Progress
 
 I regularly solve problems on LeetCode to improve my
 problem-solving skills and strengthen my understanding of
 Data Structures and Algorithms.
 
-### 🟢 Easy
-Solutions to easy-level LeetCode problems.
-
-### 🟡 Medium
-Solutions to medium-level LeetCode problems.
-
-### 🔴 Hard
-Solutions to hard-level LeetCode problems.
+📋 **My problem tracking sheet:** Coming soon
 
 ---
 
 ## 🎯 Goal
 
-- Solve problems consistently
-- Understand the patterns behind problems
+- Solve LeetCode problems consistently
+- Understand DSA concepts
 - Improve problem-solving skills
-- Build a strong foundation in DSA
+- Track my progress

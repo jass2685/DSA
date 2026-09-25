@@ -20,7 +20,7 @@ I regularly solve problems on LeetCode to improve my
 problem-solving skills and strengthen my understanding of
 Data Structures and Algorithms.
 
-📋 **[My LeetCode Tracking Sheet](https://docs.google.com/spreadsheets/d/1aJDoXp2PClGX6u5B1geubRFnVIP5EiSm7X-3AQd0ssc/edit?usp=sharing)**
+📋 **[My LeetCode Sheet](https://docs.google.com/spreadsheets/d/1aJDoXp2PClGX6u5B1geubRFnVIP5EiSm7X-3AQd0ssc/edit?usp=sharing)**
 
 ---
 
